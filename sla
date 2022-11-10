@@ -1,4 +1,3 @@
-Section:NewButton("Cbring", "Pulls the person closer to you", function()
    -- Farewell Infortality.
 -- Version: 2.82
 -- Instances:
